@@ -1,4 +1,5 @@
-# async-exercise-2Create a new project in your own github page, name it async-exercise-2
+# async-exercise-2
+Create a new project in your own github page, name it async-exercise-2
 
 Spec:
 We need to create an asynchronous function that accepts a numeric parameter from 0 to 50000. 
